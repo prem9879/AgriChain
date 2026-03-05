@@ -1,0 +1,40 @@
+env: load .env
+env: export EXPO_PUBLIC_BACKEND_URL EXPO_PUBLIC_GOOGLE_API_KEY EXPO_PUBLIC_HF_TOKEN EXPO_PUBLIC_OPENAI_KEY
+Starting project at D:\beadsheet\AgriChain
+Metro is running in CI mode, reloads are disabled. Remove CI=true to enable watch mode.
+Starting Metro Bundler
+
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android .\index.js ░░░░░░░░░░░░░░░░  1.0% (1/1)
+Android .\index.js ▓░░░░░░░░░░░░░░░ 12.2% (  8/108)
+Android .\index.js ▓░░░░░░░░░░░░░░░ 12.2% ( 17/132)
+Android .\index.js ▓░░░░░░░░░░░░░░░ 12.2% ( 25/152)
+Android .\index.js ▓░░░░░░░░░░░░░░░ 12.2% ( 32/166)
+Android .\index.js ▓░░░░░░░░░░░░░░░ 12.2% ( 49/228)
+Android .\index.js ▓▓░░░░░░░░░░░░░░ 15.4% (112/285)
+Android .\index.js ▓▓▓▓▓░░░░░░░░░░░ 34.4% (210/425)
+Android .\index.js ▓▓▓▓▓░░░░░░░░░░░ 34.4% (257/525)
+Android .\index.js ▓▓▓▓▓░░░░░░░░░░░ 34.4% (316/576)
+Android .\index.js ▓▓▓▓▓▓░░░░░░░░░░ 41.4% (407/664)
+Android .\index.js ▓▓▓▓▓▓░░░░░░░░░░ 41.4% (475/841)
+Android .\index.js ▓▓▓▓▓▓░░░░░░░░░░ 43.0% (622/954)
+Android .\index.js ▓▓▓▓▓▓▓▓░░░░░░░░ 50.4% ( 727/1024)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓░░░░░░ 63.8% ( 849/1063)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓░░░░░░ 68.4% ( 945/1143)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 78.7% (1069/1206)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80.3% (1151/1335)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80.5% (1252/1395)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90.5% (1369/1447)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 98.0% (1486/1501)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.9% (1574/1575)
+Android Bundled 82832ms index.js (1584 modules)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.9% (1584/1584)
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android Bundled 268ms index.js (1 module)
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android Bundled 134ms index.js (1 module)
+Android Bundled 138ms index.js (1 module)
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
