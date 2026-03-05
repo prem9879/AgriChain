@@ -1,0 +1,25 @@
+{
+  "name": "agrichain-backend",
+  "version": "1.0.0",
+  "description": "Blockchain trust backend for AgriChain",
+  "private": true,
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "check": "node --check src/server.js && node --check src/app.js && node --check src/config.js && node --check src/routes/healthRoutes.js && node --check src/routes/blockchainRoutes.js && node --check src/services/blockchainService.js && node --check src/store/dataStore.js && node --check src/blockchain/client.js && node --check scripts/deploy-contract.js",
+    "deploy:contract:amoy": "npx hardhat run scripts/deploy-contract.js --network amoy"
+  },
+  "dependencies": {
+    "agri-mitra": "file:..",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.4",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.6",
+    "hardhat": "^2.23.0"
+  }
+}
