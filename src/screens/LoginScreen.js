@@ -42,8 +42,8 @@ export default function LoginScreen({ navigation }) {
       user: { id: 1, phone: '9876543001', full_name: 'Prem', district: 'Nashik', state: 'Maharashtra', main_crop: 'onion', farm_size_acres: 5.0, soil_type: 'black', language: 'hi', total_harvests: 12, savings_estimate: 45000, created_at: '2024-06-01T00:00:00' },
     },
     {
-      label: '🧑‍💻 Ashwin', color: '#0277BD',
-      user: { id: 3, phone: '9876543003', full_name: 'Ashwin', district: 'Nagpur', state: 'Maharashtra', main_crop: 'wheat', farm_size_acres: 8.0, soil_type: 'alluvial', language: 'en', total_harvests: 8, savings_estimate: 32000, created_at: '2024-07-15T00:00:00' },
+      label: '🧑‍💻 Raj', color: '#0277BD',
+      user: { id: 3, phone: '9876543003', full_name: 'Raj', district: 'Nagpur', state: 'Maharashtra', main_crop: 'wheat', farm_size_acres: 8.0, soil_type: 'alluvial', language: 'en', total_harvests: 8, savings_estimate: 32000, created_at: '2024-07-15T00:00:00' },
     },
     {
       label: '🌾 Bhumi', color: '#B71C1C',

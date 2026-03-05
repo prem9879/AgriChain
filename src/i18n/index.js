@@ -48,7 +48,7 @@ function interpolate(str, params) {
  * Main translation function.
  *
  * @param {string} key     Dot-path key, e.g. 'home.greeting'
- * @param {object} params  Interpolation params, e.g. { name: 'Ashwin' }
+ * @param {object} params  Interpolation params, e.g. { name: 'Prem' }
  * @param {string} lang    Language code: 'en' | 'hi' | 'mr'
  * @returns {string}       Translated + interpolated string (falls back to English, then key)
  */
